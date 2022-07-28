@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "request-promise-native": "^1.0.9",
+    "unirest": "^0.6.0",
+    "utf8": "^3.0.0"
+  }
+}
